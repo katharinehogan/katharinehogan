@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katharinehogan
-- 👀 I’m interested in community ecology, restoration ecology, databases and data management, innovative education resources, prairies and grasslands, collaborative and community based science and adaptive management, and becoming less terrible at coding
-- 🌱 I’m a PhD candidate in natural resources and applied ecology (prairie restoration) at the University of Nebraska-Lincoln
-- 💞️ I’m looking to collaborate on ways to make the interface of simultaneously learning coding and statistics easier. No brilliant ideas, but I'm always thinking 
+- 👀 I’m interested in prairie, grassland, community, and restoration ecology, land management and conservation, reproducibility in science, databases and data management, innovative education resources, collaborative and co-producing science, and becoming less terrible at coding
+- 🌱 I'm a post-doc working on an NSF project on grassland community assembly and ecosystem functioning at Northern Illinois University
+- 💞️ I’m looking to collaborate on any of the topics above (and others!)
 - 📫 How to reach me: @prairylandslide on Twitter, Katharine Hogan on ResearchGate, LinkedIn. If art is also your thing, hit me up at @prairylandslideart on Instagram. 
 
 <!---
